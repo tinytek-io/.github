@@ -1,6 +1,6 @@
 # TinyTek.io
 
-Welcome to the official GitHub organization for TinyTek.io! We are currently operating in stealth mode, building intelligent software solutions while bootstrapping by assisting other startups and contributing to open source projects.
+Welcome to the official GitHub organization for TinyTek.io! We are currently operating in stealth mode 🥷, building intelligent software solutions while bootstrapping by assisting other startups 🥰 and contributing to open source projects 🚀
 
 ## About Us
 
